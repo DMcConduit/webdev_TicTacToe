@@ -3,12 +3,15 @@ body{
 
 }
 
+.button {
+  text-align: center;
+}
+
 button {
   background-color: #1C6DD0;
   color: #FED1EF;
-  margin-left: 630px;
-  margin-right: 630px;
-  margin-top: 25px;
+  display: block;
+  margin: auto;
   text-align: center;
 }
 
