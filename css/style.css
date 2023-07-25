@@ -1,0 +1,44 @@
+body{
+  background-color: #A3E4DB;
+
+}
+
+.button {
+  text-align: center;
+}
+
+
+button {
+  background-color: #1C6DD0;
+  color: #FED1EF;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+
+
+h1{
+  color: #1C6DD0;
+  font-size: 80px;
+  font-family: 'Silkscreen', cursive;
+  text-align: center;
+}
+
+table {
+  background-color: #FED1EF;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 100px;
+
+}
+
+td {
+  border-color: #1C6DD0;
+  border-style: solid;
+  color: #1C6DD0;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  width: 150px;
+  height: 150px;
+}
